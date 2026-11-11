@@ -29,6 +29,9 @@ Automated SMS reminders with separate admin and lecturer portals.
 
 ### BaseMatch: Web3 Matching Protocol
 Matching app on Base L2. Selected for a paid Coinbase/Base UX research session.
+
+- My role: Lead developer
+- Stack: Next.js, Solidity , viem 
 - https://github.com/KodaZenji/baseMatch
 
 ## Contact
