@@ -14,13 +14,14 @@ Co-built an internal system that automates NYSC (National Youth Service Corps) c
 ### NotInked: Wallet Scanner and Scam Detection Tool
 LLM-powered detection of malicious messages and suspicious links, built for Ink.
 - My role: Indie developer. 
-- Stack: Next.js 16 (App Router) , viem — reads Ink chain directly, no backend indexer needed for v1, CSS, LLM
+- Stack: Next.js, viem — reads Ink chain directly, no backend indexer needed for v1, CSS, LLM
 - https://notinked.xyz 
 - repo : https://github.com/kodazenji2/notinked-sprint7/tree/main
 
 ### SMS Timetable Reminder System
-Automated SMS reminders with separate admin and lecturer portals. 
--My role : Indie developer
+Automated SMS reminders with separate admin and lecturer portals.
+
+- My role : Indie developer
 - Stack: Next.js, Supabase, Termii
 - https://github.com/kodazenji2/sms-reminder-system
 - https://nict-sms-reminder-system.vercel.app
