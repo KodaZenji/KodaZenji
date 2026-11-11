@@ -1,11 +1,11 @@
 
 # Hi, I'm Aurio 👋
-Also Known Legally as Benjamin.
+Also Known Legally as Benjamin Michael Eromosele.
 I build full-stack and AI-integrated apps with Python, JavaScript, Typescript and SQL.
 
 ## Projects
 
-### Document Automation System: A State House of Assembly
+### Document Automation System: Edo State House of Assembly, Nigeria
 Co-built an internal system that automates NYSC (National Youth Service Corps) clearance letters, SIWES acceptance letters and posting documents. Still in active use.
 - My role: Contributed to software testing, debugging and workflow improvements.
 - Stack: Next.Js and CSS
